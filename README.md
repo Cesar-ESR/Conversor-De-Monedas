@@ -30,27 +30,7 @@ Además, se implementa la capacidad de rastrear un historial de conversiones y g
 
 2. **Ejemplo de flujo de usuario**:
 
-********************************************
-Sea Bienvenido/a al Conversor de Moneda.
-Desea realizar alguna conversion?
-si
-
-
-Monedas Disponibles:
-1) Dólar ==> Peso Argentino
-2) Peso Argentino ==> Dólar
-3) Dólar ==> Real Brasileño
-4) Real Brasileño ==> Dólar
-5) Dólar ==> Peso Colombiano
-6) Peso Colombiano ==> Dólar
-7) Elige moneda personalizada
-8) Historial de Conversiones
-9) Salir
-Elija la conversión deseada (1-9): 1
-Usted seleccionó convertir USD a Peso Argentino.
-Ingrese la cantidad a convertir: 10
-Tasa actual: 1 USD = 1126.0000 ARS
-Resultado: 10.00 USD = 11260.00 ARS
+![alt text](image.png)
 
 Deseas continuar con otra conversion? SI/NO
 no
