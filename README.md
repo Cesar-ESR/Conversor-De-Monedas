@@ -32,10 +32,6 @@ Además, se implementa la capacidad de rastrear un historial de conversiones y g
 
 ![alt text](image.png)
 
-Deseas continuar con otra conversion? SI/NO
-no
-Gracias por usar el conversor de monedas. Hasta pronto.
-
 3. **Funcionalidades Avanzadas.**:
    * Conversión personalizada: El usuario puede ingresar los códigos de moneda para realizar conversiones personalizadas.
    * Historial de conversiones: Se guarda un historial de todas las conversiones realizadas durante la sesión, y este se guarda en un archivo historial.json.
